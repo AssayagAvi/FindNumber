@@ -5,7 +5,7 @@ package FindNumber;
 
 public class App {
 
-    private static final String GAME_HEADER = "Find a Number!";
+    private static final String GAME_HEADER = "Find a Number between 0 and 120!";
 
     public static void game() {
         System.out.println("Game over!");
